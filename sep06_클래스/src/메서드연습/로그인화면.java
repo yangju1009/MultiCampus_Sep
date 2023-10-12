@@ -18,7 +18,7 @@ public class 로그인화면 {
 
 	public static void main(String[] args) {
 		JFrame f = new JFrame();
-		f.setSize(1600, 600);
+		f.setSize(1600, 700);
 		f.setTitle("로그인화면"); // void
 
 		// 라벨3개, 텍스트필드2개, 버튼2개

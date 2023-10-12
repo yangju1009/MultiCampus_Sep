@@ -17,7 +17,7 @@ public class 배열정리문제 {
 		System.out.println(n[0] + n[2]);
 
 		// 2. 문자열 입력
-		String[] s = new String[3];
+		String[] s = new String[3]; // {null, null, null}
 		for (int i = 0; i < s.length; i++) {
 			System.out.println("프로그램 언어를 입력하세요. " + (s.length-i) + "번 남았습니다");
 			s[i] = sc.next();
